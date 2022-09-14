@@ -1,4 +1,4 @@
-# Measuring-the-Hubble-Constant
+# Calculating-the-Hubble-Constant
 - A 1st year computing project for the undergraduate physics course at Imperial College London.
 - Two real data sets (distances of planets from Earth and their Hydrogen spectral intensities) were given.
 - Mean observed frequency for each planet (50 planets in total) was determined by plotting the spectral intensity (arbitrary units) against the observed frequency range (Hz), generating a linear gaussian fit, and finding the mean frequency of the Gaussian.
