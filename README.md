@@ -5,4 +5,6 @@
 - The mean red shift velocity of each planet was calculated from its mean frequency value. 
 - The Hubble constant was determined by interpolating the slope of the graph of red shift velocity vs. distance from Earth. 
 
-Experimental Hubble constant = 77 +/- 5 km/sMpc. 
+Result:
+- Experimental Hubble constant = 77 +/- 5 km/sMpc. 
+- Accepted value is roughly 72 km s^-1 Mpc^-1
